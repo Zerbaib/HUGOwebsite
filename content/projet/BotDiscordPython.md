@@ -38,8 +38,8 @@ editPost:
 
 ---
 # Start with
-CalculaPy it's a little projet in Python
-This project is used to calculate simple things (addition, subtraction, multiplication)
+This project as for but to help you in our Discord bot creation
+With this template you can do many thing (moderation, fun, ticket, rank, ...)
 
 *Note: All my programs will have the download with git you can do it without with the .zip on the github page but this will not be said in the docs*
 
