@@ -3,7 +3,7 @@ title: "A website ?"
 date: 2022-12-22T04:49:32+01:00
 # weight: 1
 # aliases: ["/first"]
-# tags: [""]
+# tags: ["website-news"]
 author: "Zerbaib"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -45,3 +45,6 @@ this is the intro
 Yes i know i use a "cms" for this web site !
 
 But for this website I wanted to do something clean.
+
+## Why this website
+I think this website could be a place of help for those who need it on Python, HTML, or even something else like Linux or the internet

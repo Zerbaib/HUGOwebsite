@@ -58,18 +58,18 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "https://avatars.githubusercontent.com/u/81523999?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
       - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+        url: posts/
+      - name: Projects
+        url: projet/
 
   # home-info mode
   homeInfoParams:
