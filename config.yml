@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: Hi there 👋
+    subtitle: "I am a French Python developper"
     imageUrl: "https://avatars.githubusercontent.com/u/81523999?v=4"
     imageWidth: 120
     imageHeight: 120
