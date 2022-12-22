@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Zerbaib blog</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on Zerbaib blog</description>
+    <title>Projets on Zerbaib blog</title>
+    <link>https://examplesite.com/projet/</link>
+    <description>Recent content in Projets on Zerbaib blog</description>
     <image>
       <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 10:15:55 +0100</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 10:15:55 +0100</lastBuildDate><atom:link href="https://examplesite.com/projet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BotDiscordPython</title>
       <link>https://examplesite.com/projet/botdiscordpython/</link>
@@ -26,15 +26,6 @@
       
       <guid>https://examplesite.com/projet/calculapy/</guid>
       <description>Are you interested in this project ? Perfect post is here to explain it to you !</description>
-    </item>
-    
-    <item>
-      <title>A website ?</title>
-      <link>https://examplesite.com/posts/awebsite/</link>
-      <pubDate>Thu, 22 Dec 2022 04:49:32 +0100</pubDate>
-      
-      <guid>https://examplesite.com/posts/awebsite/</guid>
-      <description>Yes it&amp;#39;s a website</description>
     </item>
     
   </channel>

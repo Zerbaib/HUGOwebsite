@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://examplesite.com/projet/botdiscordpython/</loc>
+    <lastmod>2022-12-22T10:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/projet/</loc>
+    <lastmod>2022-12-22T10:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2022-12-22T10:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/projet/calculapy/</loc>
+    <lastmod>2022-12-22T05:19:28+01:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/awebsite/</loc>
+    <lastmod>2022-12-22T04:49:32+01:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/</loc>
+    <lastmod>2022-12-22T04:49:32+01:00</lastmod>
+  </url><url>
     <loc>https://examplesite.com/categories/</loc>
   </url><url>
     <loc>https://examplesite.com/tags/</loc>
-  </url><url>
-    <loc>https://examplesite.com/</loc>
   </url>
 </urlset>
