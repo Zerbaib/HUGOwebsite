@@ -14,7 +14,7 @@ comments: false
 description: "Are you interested in this project ? Perfect post is here to explain it to you !"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: true
